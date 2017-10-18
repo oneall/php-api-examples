@@ -8,10 +8,7 @@ any of the social networks. Save time and development resources and focus on you
 
 ## Getting Started
 
-This project show examples of our Oneall REST API into PHP with **Curl**.
-
-* a [oneall account] with a application created. Y'oull need your application : **subdomain**, 
-**public key** and **private key**.
+This project show examples of our Oneall REST API into PHP with **Curl** & With our PHP SDK.
 
 ### Prerequisites
 
@@ -20,7 +17,7 @@ You need to create an account and an application on [our website](app.oneall.com
 Usage
 -----
 
-You need to setup your OneAll Site Credentials in the **lib/config.ini** file before being able to use examples.
+Setup your OneAll Site Credentials in the **lib/config.ini** file before being able to use examples.
 
 Documentation
 -------------
