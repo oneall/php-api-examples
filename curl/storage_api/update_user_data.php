@@ -60,8 +60,7 @@ $structure = array(
 			)
 		)
 	)
-)
-;
+);
 
 // Encode structure
 $structure_json = json_encode ($structure);
