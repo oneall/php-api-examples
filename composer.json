@@ -1,15 +1,7 @@
 {
-  "name"       : "oneall/api-php-example",
-  "config"     : {
-    "secure-http"      : false,
-    "minimum-stability": "dev"
-  },
-  "require"    : {
+  "name"   : "oneall/api-php-example",
+  "require": {
     "php"           : ">=5.4",
-    "oneall/php-sdk": "dev-master"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "@stable",
-    "phpmd/phpmd"    : "^2.6"
+    "oneall/php-sdk": "~1.0"
   }
 }
