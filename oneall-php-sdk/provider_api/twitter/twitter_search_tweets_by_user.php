@@ -30,6 +30,11 @@ require_once __DIR__ . '/../../../bootstrap.php';
 
 // Make Request
 $api = new \Oneall\Api\Apis\Provider\Twitter($client);
-$response = $api->search('oneall', 5);
+
+// by screen_name
+$response = $api->searchByUser(null, 'oneall', 3);
+
+// by user_id
+//$response = $api->searchByUser(403470518, null, 3);
 
 displayResponse($response);
