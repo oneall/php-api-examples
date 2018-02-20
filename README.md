@@ -17,7 +17,9 @@ You need to create an account and an application on [our website](app.oneall.com
 Usage
 -----
 
-Setup your OneAll Site Credentials in the **lib/config.ini** file before being able to use examples.
+* Setup your OneAll Site Credentials in the **lib/config.ini** file before being able to use examples. 
+* Update example files with your own values (token, ...)
+* And execute PHP examples files.
 
 Documentation
 -------------
