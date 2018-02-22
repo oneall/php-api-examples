@@ -20,8 +20,8 @@
 include __DIR__ . '/../../../bootstrap.php';
 
 // Get the Pinterest posts of this identity
-$identityToken = '88888888-4444-4444-4444-121212121212';
-$board    = 'averyskyler352/test';
+$identityToken = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx';
+$board    = 'username/board';
 $note    = 'User Integration Platform';
 $image_uri    = 'http://public.oneallcdn.com/img/presentation/photos/offices.jpg';
 $link    = 'http://www.oneall.com/company/imprint/';
