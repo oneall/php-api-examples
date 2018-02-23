@@ -2,6 +2,6 @@
   "name"   : "oneall/api-php-example",
   "require": {
     "php"           : ">=5.4",
-    "oneall/php-sdk": "~1.0"
+    "oneall/php-sdk": "^1.1.3"
   }
 }
